@@ -12,15 +12,20 @@ The Financial Planning Tool creates value for the credit union member by determi
 
 ## Technologies
 
-The Financial Planning Tool is written in Python 3.10.1 using Jupyter Lab. It is compatible with Mac and PC OS. It uses the Pandas libraries to collect, prepare, and analyze the data. The MCForecastTools library provides the Monte Carlo Simulations and data visualization plots are rendered using Matplotlib.
+The Financial Planning Tool is written in Python 3.10.1 using Jupyter Lab. It is compatible with Mac and PC OS.
+The tool uses the Pandas libraries to collect, prepare, and analyze the data.
+The MCForecastTools library provides the Monte Carlo Simulations.
+Data visualization plots are rendered using Matplotlib.
 
-This app references cryptocurrency price data via the Free Crypto API. Market data for AGG and SPY are collected using the Alpaca SDK.
+This app references cryptocurrency price data via the Free Crypto API.
+Market data for AGG and SPY are collected via API using the Alpaca SDK.
 
 ---
 
 ## Installation Guide
 
-This app can be run in Gitbash or Terminal. The app and supporting files are located in this Github repository:
+This app can be run in Gitbash or Terminal. The app and supporting files are located in the below Github repository:
+https://github.com/kyhuber/Financial-Planning-Tool
 
 ---
 
