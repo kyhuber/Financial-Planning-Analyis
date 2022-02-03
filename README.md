@@ -1,8 +1,8 @@
 # Financial Planning Tool
 
-This app creates a Financial Planning Tool for emergencies and retirement, which can be used by members at a credit union.
+This app helps credit union members create financial plans for emergencies and retirement.
 
-First, the tool collects real-time price data via API for two cryptocurrency assets, BTC and ETH. The tool then accesses the Alpaca API to get historical price data for two tickers, AGG (bonds) and SPY (stocks). The Financial Planning Tool analyzes the portfolio composition and calculates its total value before comparing it to emergency fund needs based on the member's monthly income. If the total portfolio value exceeds the emergency fund needs, the tool congratulates the member.
+First, the Financial Planning Tool collects real-time price data via API for two cryptocurrency assets, BTC and ETH. The tool then accesses the Alpaca API to get historical price data for two tickers, AGG (bonds) and SPY (stocks). The Financial Planning Tool analyzes the portfolio composition and calculates its total value before comparing it to emergency fund needs based on the member's monthly income. If the total portfolio value exceeds the emergency fund needs, the tool congratulates the member.
 
 Second, the Financial Planning Tool forecasts retirement portfolio performance for two hypothetical investment strategies. Using historical price data, the tool runs 10- and 30-year Monte Carlo simulations with two different portfolio allocations across AGG and SPY. To support the analysis, data is visualized in line plots and histograms. Finally, the tool recommends which of the investment strategies is more appropriate for the member.
 
