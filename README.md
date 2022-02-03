@@ -6,7 +6,7 @@ First, the tool collects real-time price data via API for two cryptocurrency ass
 
 Second, the Financial Planning Tool forecasts retirement portfolio performance for two hypothetical investment strategies. Using historical price data, the tool runs 10- and 30-year Monte Carlo simulations with two different portfolio allocations across AGG and SPY. To support the analysis, data is visualized in line plots and histograms. Finally, the tool recommends which of the investment strategies is more appropriate for the member.
 
-The Financial Planning Tool creates value for the credit union member by determining whether their portfolio has enough money for emergencies. The member can check this tool and see real-time data for making investment decisions. The tool also helps members understand how changes in their retirement investment strategy may affect their ability to retire. The Financial Planning Tool makes it easy for members to simulate different portfolio allocations over different time horizons.
+The Financial Planning Tool creates value for the credit union member by determining whether their portfolio has enough money for emergencies. The member can check this tool and see real-time data for making investment decisions. The tool also helps members understand how changes in their retirement investment strategy may affect their ability to retire. The Financial Planning Tool makes it easy for members to simulate different portfolio allocations over multiple time horizons.
 
 ---
 
